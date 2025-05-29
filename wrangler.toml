@@ -1,0 +1,7 @@
+name = "telegram-proxy"
+main = "src/index.js"
+compatibility_date = "2025-05-29"
+
+
+[vars]
+TELEGRAM_BOT_TOKEN = ""  # Replace with your Telegram bot token
